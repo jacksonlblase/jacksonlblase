@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Jackson Blase
 
-<!--
-**jacksonlblase/jacksonlblase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm developing practical cybersecurity skills through home lab projects focused on networking, security monitoring, troubleshooting, and incident investigation.
 
-Here are some ideas to get you started:
+I use GitHub to document what I build, how I test it, and what I learn along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical interests
+
+- Network configuration and troubleshooting
+- System logging and security monitoring
+- Alert triage and evidence-based investigation
+- Detection testing and validation
+- Clear technical documentation and reporting
+
+## Current work
+
+I'm organizing my home lab documentation and preparing a project report. Project write-ups will explain the objective, environment, approach, evidence, findings, limitations, and lessons learned.
+
+Public project links will be added as the work is ready to share.
+
+## Collaboration
+
+I'm interested in exchanging ideas about home labs, troubleshooting, and security monitoring. I welcome constructive feedback on my technical work and documentation.
